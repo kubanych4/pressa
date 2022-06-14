@@ -1,0 +1,26 @@
+{
+  "lang": {
+    "title": "КЫР"
+  },
+  "doc": {
+    "title": "Текст на русском",
+    "all_news": "Все новости",
+    "society": "Общество",
+    "politics": "Политика",
+    "economy": "Экономика",
+    "in_the_world": "В мире",
+    "special_projects": "Специальные проекты",
+    "search": "Поиск...",
+    "last_news": "Последние новости",
+    "video_content": "Видео контент",
+    "load_more": "Загрузить еще",
+    "daily_news": "Новости дня",
+    "koom_press_year": "© Koom Press, 2022 г.",
+    "affiliate_program": "Партнерская программа",
+    "for_advertisers": "ЗАКАЗАТЬ РЕКЛАМУ",
+    "about_us": "О нас",
+    "contacts": "Контакты",
+    "vacancy": "Вакансии",
+    "question": "По всем вопросам"
+  }
+}
